@@ -12,7 +12,7 @@ All you need is to forget about the agony and contemplate about our simple to us
 * MongoDB: Serves as the application's database, offering a flexible storage solution for user and transaction data.
 * JWT: Implements a secure authentication system using JSON Web Tokens, allowing users to be verified and granted access to specific features.
 
-## API Endpoints 
+## API Endpoints :
  1. Sign Up API (POST Request) 
      ##  Functionality:
     * Approve or reject the application based on user age and monthly salary.
@@ -34,7 +34,7 @@ All you need is to forget about the agony and contemplate about our simple to us
 
                                                  MongoDB connection successfull!!
 
-2. Login API (POST Request)
+2. Login API (POST Request) :
    ##  Functionality:
     * Allow user to login using email and password.
     * Use JWT for authentication.
@@ -43,7 +43,7 @@ All you need is to forget about the agony and contemplate about our simple to us
 
                                           User Logged in and token created successfully !!
 
-  3. Show User Data (GET Request)
+  3. Show User Data (GET Request) :
         ##  Functionality:
       *  Showuserdata with the following fields:
            * Purchase Power amount
@@ -57,7 +57,7 @@ All you need is to forget about the agony and contemplate about our simple to us
 
                                                    Displaying User Data !! 
 
- 4. Borrow Money API (POST Request)
+ 4. Borrow Money API (POST Request) :
       ##  Functionality:
      * Allow the user to borrow money from the application.
      * Updatethe Purchase Power amount.
