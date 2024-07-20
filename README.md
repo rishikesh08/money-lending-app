@@ -21,13 +21,18 @@ All you need is to forget about the agony and contemplate about our simple to us
     
     ![Screenshot_20240720_200554](https://github.com/user-attachments/assets/7f7ebd4d-f322-49ae-a205-6595c5ca7d4c)
 
-                                                 Monthly salary should be 25k or more!!
+                                                 User salary must be 25k or more!!
     ![Screenshot_20240720_200536](https://github.com/user-attachments/assets/8bae2fe2-f35e-438f-ba77-82bb6c684e66)
 
-                                                 User should be above 20 years of age!!
+                                                 User must have 20 years of age or more!!
     ![Screenshot_20240720_193810](https://github.com/user-attachments/assets/8b850383-569a-4bfd-9056-97c596a3c788)
 
                                                  User Created Successfully!!
+    ## MongoDB Connection 
+  
+  ![Screenshot_20240720_205708](https://github.com/user-attachments/assets/a8d8d61e-53be-4abb-95c5-e2cbd0deb8eb)
+
+                                                 MongoDB connection successfull!!
 
 2. Login API (POST Request)
    ##  Functionality:
@@ -67,10 +72,5 @@ All you need is to forget about the agony and contemplate about our simple to us
 
                                                Purchase power changed after borrowing money !!
 
-  ## MongoDB Connection 
-  
-  ![Screenshot_20240720_205708](https://github.com/user-attachments/assets/a8d8d61e-53be-4abb-95c5-e2cbd0deb8eb)
-
-                                               MongoDB connection successfull!!
 
                                                      
